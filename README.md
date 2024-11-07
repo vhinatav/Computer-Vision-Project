@@ -6,4 +6,4 @@ This object detection model detects the type of trash in the image, and it label
  
 
 **Link to Dataset and Files** 
-<[LINK](https://drive.google.com/drive/folders/1obvCMW3zxQKnnEHGyne8wBsCCfOCSSf0?usp=drive_link)>
+<https://drive.google.com/drive/folders/1obvCMW3zxQKnnEHGyne8wBsCCfOCSSf0?usp=drive_link)>
